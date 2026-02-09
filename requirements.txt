@@ -5,3 +5,4 @@ feedparser
 beautifulsoup4
 python-dotenv
 openai
+youtube_transcript_api
